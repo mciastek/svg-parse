@@ -1,0 +1,8 @@
+node_modules/
+.sass-cache/
+.tmp/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+svg
+json

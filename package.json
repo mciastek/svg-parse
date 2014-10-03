@@ -1,0 +1,14 @@
+{
+  "name": "parse-svg.js",
+  "version": "0.1.0",
+  "author": "Mirosław Ciastek <miroslaw.ciastek@gmail.com>",
+  "description": "Simple svg to JSON parser",
+  "dependencies": {
+    "buffered-reader": "*",
+    "eval": "*",
+    "jsdom": "*",
+    "mkdirp": "^0.5.0",
+    "rimraf": "^2.2.8"
+  },
+  "license": "MIT"
+}
